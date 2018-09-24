@@ -4,4 +4,4 @@ A program that solves multiple Sudokus recursively and sums the top-left 3 digit
 The problem description can be found here:
 https://projecteuler.net/problem=96
 
-A recursive, guess and check algorithm was implemented to solve this problem.
+A recursive, greedy algorithm was implemented to solve this problem.
